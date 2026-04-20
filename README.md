@@ -12,14 +12,14 @@ I build **AI-powered web and mobile products** that solve real-world problems â€
 - React
 - Next.js
 - Tailwind CSS
+  
 
 
 ### **Backend**
 - Node.js / Express
 - Python
 - Firebase
-- MongoDB
-
+- Supabase
 ---
 
 ## ğŸ“ Experience
