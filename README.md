@@ -12,7 +12,7 @@ I build **AI-powered web and mobile products** that solve real-world problems â€
 - React
 - Next.js
 - Tailwind CSS
-- ...and more
+
 
 ### **Backend**
 - Node.js / Express
